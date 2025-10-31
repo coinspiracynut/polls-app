@@ -4,7 +4,7 @@ Mapping opinions &amp; beliefs across twitter &amp; bluesky
 
 ### MVP for Love Symposium Nov 14
 
-I made a very simple websocket polling app for WordHack in NYC (https://api.omarshehata.me/live-poll). How hard would it be to make a version where you login with twitter and click a poll option and we can see who thinks what? And have that all shuffle & updated in real time
+I made a very simple websocket polling app for WordHack in NYC (https://api.omarshehata.me/live-poll) - see [video here at 28:00 - 33:00](https://youtu.be/EBeb9tLfwOo?si=JqRBai3tHkOW6RrJ&t=1708). How hard would it be to make a version where you login with twitter and click a poll option and we can see who thinks what? And have that all shuffle & updated in real time
 
 <img width="500" height="1001" alt="image" src="https://github.com/user-attachments/assets/636ffc9f-ad8f-449a-a261-00affdeb3586" />
 
